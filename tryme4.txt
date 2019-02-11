@@ -1,0 +1,30 @@
+/data/user/0/org.qpython.qpy3/files/bin/qpython-android5.sh "/storage/emulated/0/qpython/scripts3/.last_tmp.py" && exit
+hon/scripts3/.last_tmp.py" && exit     <
+Program Will Now Print 25 Lines
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+#[QPython] Press enter to exit
